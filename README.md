@@ -17,7 +17,6 @@ App for business to be able to view and manage the departments, roles, and emplo
 - [Features](#features)
 - [Example Gif](#example-gif)
 - [Repository Link](#Repository)
-- [Test](#Test)
 - [GitHub Info](#GitHub)
 - [Licence](#Licence)
 
@@ -57,12 +56,12 @@ App for business to be able to view and manage the departments, roles, and emplo
 
 ### Example Gif
 
-<img src="" width="500" />
-<img src="" width="500" />
+<img src="./Assets/EmployeeTracker.gif" width="500" />
+<img src="./Assets/EmployeeTracker.png" width="500" />
 
 ## Repository
 
-Click [here](https://github.com/Raffee1989/Employee-Tracker) to view the GitHab Repo.
+Click [here](https://github.com/Raffee1989/Employee-Tracker) to view the GitHub Repo.
 
 
 
