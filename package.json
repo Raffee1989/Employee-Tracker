@@ -1,7 +1,7 @@
 {
   "name": "employee_tracker",
   "version": "1.0.0",
-  "description": "Developers are often tasked with creating interfaces that make it easy for non-developers to view and interact with information stored in databases. Often these interfaces are known as Content Management Systems. ",
+  "description": "Developers are often tasked with creating interfaces that make it easy for non-developers to view and interact with information stored in databases. Often these interfaces are known as Content Management Systems.",
   "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -10,14 +10,14 @@
     "type": "git",
     "url": "git@github.com:Raffee1989/Employee-Tracker.git"
   },
-  "author": "",
+  "keywords": [],
+  "author": "Abouzar Raffee",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/Raffee1989/Employee-Tracker/issues"
   },
   "homepage": "https://github.com/Raffee1989/Employee-Tracker/blob/main/README.md",
   "dependencies": {
-    "console-table-printer": "^2.8.1",
     "figlet": "^1.5.0",
     "inquirer": "^8.0.0",
     "mysql": "^2.18.1"
